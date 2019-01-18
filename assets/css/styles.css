@@ -7,3 +7,12 @@ body {
 .title {
 	font-family: 'Permanent Marker', cursive;
 }
+
+#ingredients-form {
+	width: 500px;
+}
+
+.input-group-prepend {
+	background-color: #f8f9fa;
+}
+
